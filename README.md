@@ -18,6 +18,7 @@ Nome                                              | Participar
 
 Nome                                              | Participar
 --------------------------------------------------| -----------------------------------------------------------------
+[pfSense Brasil](-)                               | [Participar](https://telegram.me/joinchat/A733uQBZsyyehIEfUyZFag)
 [Zentyal Brasil](-)                               | [Participar](https://telegram.me/joinchat/AI7jrQBv0xsSmjqbY8xG4Q)
 
 ### Contribua
