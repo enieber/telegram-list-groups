@@ -23,3 +23,4 @@ Nome                                              | Participar
 
 ### Contribua
 Mande PR para nos ajudar a aumentar a lista de grupos!
+:heart:
