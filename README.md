@@ -13,6 +13,8 @@ Nome                                              | Participar
 Nome                                              | Participar
 --------------------------------------------------| -----------------------------------------------------------------
 [JavaScriptBR](-)                                 | [Participar](https://telegram.me/joinchat/Ali74QI_UHj-ouerCJY11g)
+[Ruby](https://www.ruby-lang.org/pt/)             | [Participar](https://telegram.me/joinchat/BxznkQJRFvo7dO8MhMMy7w)
+[Android](http://www.android.com/)                | [Participar](https://telegram.me/joinchat/BxznkQAQ9ROT39qIzqQUPg)
 
 ## Infraestrutura
 
