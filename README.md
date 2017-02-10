@@ -14,9 +14,9 @@ Hora Extra Sinop - MT                             | [Sign in](http://bitly.com/h
 Name                                              | Link
 --------------------------------------------------| -----------------------------------------------------------------
 JavaScript BR                                     | [Sign in](https://telegram.me/joinchat/Ali74QI_UHj-ouerCJY11g)
-Javascript RU                                     | [Sign in](https:/t.me/javascript_ru)
-Front End RU                                      | [Sign in](https:/t.me/frontend_ru)
-CSS RU                                            | [Sign in](https:/t.me/css_ru)
+Javascript RU                                     | [Sign in](https://t.me/javascript_ru)
+Front End RU                                      | [Sign in](https://t.me/frontend_ru)
+CSS RU                                            | [Sign in](https://t.me/css_ru)
 
 ## Infrastruct
 
