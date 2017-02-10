@@ -13,6 +13,9 @@ Nome                                              | Participar
 Nome                                              | Participar
 --------------------------------------------------| -----------------------------------------------------------------
 [JavaScriptBR](-)                                 | [Participar](https://telegram.me/joinchat/Ali74QI_UHj-ouerCJY11g)
+[@javascript_ru](https:/t.me/javascript_ru)       | [Participar](https://t.me/iyntx)
+[@frontend_ru](https:/t.me/frontend_ru)           | [Participar](https://t.me/iyntx)
+[@css_ru](https:/t.me/css_ru)                     | [Participar](https://t.me/iyntx)
 
 ## Infraestrutura
 
